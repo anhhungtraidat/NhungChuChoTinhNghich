@@ -1,6 +1,6 @@
 package com.mycompany.app;
 
-public class Main {
+public class IfW3s {
     public static void main(String[] args) {
       int x = 20;
       int y = 18;

@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BreakW3s",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.BreakW3s",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ContinueW3s",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.ContinueW3s",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "SwitchW3s",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.SwitchW3s",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "IfW3s",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.IfW3s",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "iff",
             "request": "launch",
             "mainClass": "com.mycompany.app.iff",
