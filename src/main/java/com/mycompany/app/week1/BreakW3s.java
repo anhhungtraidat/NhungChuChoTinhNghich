@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.mycompany.app.week1;
 
 public class BreakW3s {
     public static void main(String[] args) {
