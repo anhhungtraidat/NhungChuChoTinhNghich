@@ -7,6 +7,7 @@ package com.mycompany.app.week2;
 
 import com.mycompany.app.week2.Book;
 import com.mycompany.app.week2.AccessControl.Ex3.Debug;
+import com.mycompany.app.week2.CleanUp.E1;
 
 public class App {
     static Debug debug = new Debug();
@@ -26,5 +27,8 @@ public class App {
         NNCollection nnCollection = new NNCollection();
         nnCollection.insert(nameNumber2);
         System.out.println(nameNumber2.getLastName());
+
+        E1 e2 = new E1();
+        e2.printString(); // This will print "null"
     }
 }
