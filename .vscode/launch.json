@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.week2.App",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "BreakW3s",
             "request": "launch",
             "mainClass": "com.mycompany.app.BreakW3s",
