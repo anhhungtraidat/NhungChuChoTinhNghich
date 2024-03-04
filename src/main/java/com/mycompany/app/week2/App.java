@@ -6,7 +6,7 @@
 package com.mycompany.app.week2;
 
 import com.mycompany.app.week2.Book;
-import com.mycompany.app.week2.AccessControlE1.Ex3.Debug;
+import com.mycompany.app.week2.AccessControl.Ex3.Debug;
 
 public class App {
     static Debug debug = new Debug();

@@ -1,4 +1,4 @@
-package com.mycompany.app.week2.AccessControlE1;
+package com.mycompany.app.week2.AccessControl;
 
 public class Ex4 {
     static class Animal {
