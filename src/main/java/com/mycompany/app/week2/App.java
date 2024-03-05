@@ -8,6 +8,7 @@ package com.mycompany.app.week2;
 import com.mycompany.app.week2.Book;
 import com.mycompany.app.week2.AccessControl.Ex3.Debug;
 import com.mycompany.app.week2.CleanUp.E1;
+import com.mycompany.app.week2.CleanUp.E7;
 
 public class App {
     static Debug debug = new Debug();
@@ -30,5 +31,7 @@ public class App {
 
         E1 e2 = new E1();
         e2.printString(); // This will print "null"
+
+        E7 you;
     }
 }
