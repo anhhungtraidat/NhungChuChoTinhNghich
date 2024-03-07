@@ -3,19 +3,23 @@
  * Licensed under the MIT License. See LICENSE in the project root for license information.
  *---------------------------------------------------------------------------------------*/
 //Package com.mycompany.app
-package com.mycompany.app.week2;
+package com.mycompany.app;
 
-import com.mycompany.app.week2.Book;
-import com.mycompany.app.week2.AccessControl.Ex3.Debug;
-import com.mycompany.app.week2.CleanUp.*;
+
+import com.mycompany.app.week2.NNCollection;
+import com.mycompany.app.week2.NameNumber;
+import com.mycompany.app.week2.Recursion;
+import com.mycompany.app.week2.Time;
+import com.mycompany.app.week2.AccessControl.*;
+import com.mycompany.app.week3.*;
 
 
 
 public class App {
-    static Debug debug = new Debug();
+   // static Debug debug = new Debug();
     public static void main(String[] args) {
     
-        Book myObj = new Book("a","b",2);
+       /*  Book myObj = new Book("a","b",2);
         System.out.println(myObj.title);
         Recursion x = new Recursion();
 
@@ -36,6 +40,8 @@ public class App {
         E7 you;
 
         E10 theEnd = new E10();
-        theEnd.finalize();
+        theEnd.finalize(); */
+
     }
 }
+
