@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex7",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.week2.AccessControl.Ex7",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "com.mycompany.app.week2.App",

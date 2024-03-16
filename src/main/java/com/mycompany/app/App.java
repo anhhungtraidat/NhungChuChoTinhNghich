@@ -6,10 +6,6 @@
 package com.mycompany.app;
 
 
-import com.mycompany.app.week2.NNCollection;
-import com.mycompany.app.week2.NameNumber;
-import com.mycompany.app.week2.Recursion;
-import com.mycompany.app.week2.Time;
 import com.mycompany.app.week2.AccessControl.*;
 import com.mycompany.app.week3.*;
 

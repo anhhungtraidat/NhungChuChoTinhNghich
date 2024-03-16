@@ -5,6 +5,8 @@ public class Ex6 {
         System.out.println("This is Ex6 contructor");
     }
     class Exx6 extends Ex6{
-        public void In(){Ex6() ;}
+        public void In(){
+             Ex6 x = new Ex6();
+            }
     }
 }
