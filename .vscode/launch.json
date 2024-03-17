@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.week2.AccessControl.Ex8.connection.test",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Ex8",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.week2.AccessControl.Ex8.Ex8",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Ex7",
             "request": "launch",
             "mainClass": "com.mycompany.app.week2.AccessControl.Ex7",

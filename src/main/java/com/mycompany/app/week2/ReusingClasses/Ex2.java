@@ -10,7 +10,7 @@ class Cleanser {
 
     }
    
-   public class Detergent extends Cleanser {
+    class Detergent extends Cleanser {
     // Change a method:
     public void scrub() {
     append(" Detergent.scrub()");
@@ -21,7 +21,7 @@ class Cleanser {
     // Test the new class:
    }
 
-   public class Ex2 extends Detegent {
+   public class Ex2 extends Detergent {
     public void scrub() {
         append(" Ex2.scrub()");
         super.scrub(); // Call base-class version

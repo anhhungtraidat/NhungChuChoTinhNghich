@@ -7,7 +7,7 @@ public class Ex1{
     }
 }
  
-public class Math {
+class Math {
     Ex1 x = new Ex1();
 }
     

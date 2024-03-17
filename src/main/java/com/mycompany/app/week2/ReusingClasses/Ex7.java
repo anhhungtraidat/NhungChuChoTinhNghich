@@ -6,12 +6,12 @@ public class Ex7{
             System.out.println(a);
         }; 
     }
-    public class B {
+    class B {
         public B(String b){
             System.out.println(b);
         }
     }
-    public class C {
+    class C {
         B member = new B();
         public C(String c){
             System.out.println(c);
