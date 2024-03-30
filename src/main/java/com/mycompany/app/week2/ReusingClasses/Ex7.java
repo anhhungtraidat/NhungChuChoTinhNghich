@@ -12,7 +12,7 @@ public class Ex7{
         }
     }
     class C {
-        B member = new B();
+        //B member = new B();
         public C(String c){
             System.out.println(c);
         }
